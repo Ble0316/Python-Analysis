@@ -13,7 +13,9 @@ This is my first Python data analysis project. This project processes survey dat
     * math - For calculating averages and square roots used in the mathematical formulas.
 
 ## Project History
-This project was originally built in **VS Code** as a local file on my computer back in **2023** when I first started self learning Python using online resources like W3Schools, Stack Overflow, and a bit of AI. For easier result viewing, I migrated the code into a Google Colab notebook. The repository contains the final `.ipynb` notebook file alongside the anonymized survey response spreadsheet.
+* Created in **2023** using **Visual Studio Code (VS Code)** while self learning Python.
+* Migrated from a local file into a Google Colab notebook for easier execution and result viewing.
+* Recently uploaded to GitHub as a portfolio. 
 
 ## Core Features
 * Data Ingestion - Loads the questionnaire response spreadsheet into Google Colab for processing.
